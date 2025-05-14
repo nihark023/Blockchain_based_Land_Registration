@@ -1,0 +1,12 @@
+String mapBoxApiKey =
+    'pk.eyJ1Ijoic2F1cmFiaG13IiwiYSI6ImNreTRiYzNidjBhMTkydnB2dmpoeGt4ZmgifQ.2QZ4CsNiygDTAhkqASpbPg';
+
+String nftStorageApiKey =
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiJmMTkyZjMzOS00ZDNjLTRiZTktYWUwNC03MDM2NzdmOGJiYzEiLCJlbWFpbCI6Im5paGFya25paGFya0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwicGluX3BvbGljeSI6eyJyZWdpb25zIjpbeyJkZXNpcmVkUmVwbGljYXRpb25Db3VudCI6MSwiaWQiOiJGUkExIn0seyJkZXNpcmVkUmVwbGljYXRpb25Db3VudCI6MSwiaWQiOiJOWUMxIn1dLCJ2ZXJzaW9uIjoxfSwibWZhX2VuYWJsZWQiOmZhbHNlLCJzdGF0dXMiOiJBQ1RJVkUifSwiYXV0aGVudGljYXRpb25UeXBlIjoic2NvcGVkS2V5Iiwic2NvcGVkS2V5S2V5IjoiMDMzZTUzOGQ3Mzk3ZjdhZGEwMjAiLCJzY29wZWRLZXlTZWNyZXQiOiI2ZDQ4MzJkOTFmYTI0OGU1ZDYyYTNlZjc2MzhhZjEzN2UxYzEzZGMxMWEyZDgxNzMzODRiMmZhMzVhNzJkYjY2IiwiZXhwIjoxNzYyODAyMDEyfQ.rTuU5-ffhNnzrWwp1qQlzDGagQ__uxhii29b1bG7dpM';
+
+const String rpcUrl = "http://127.0.0.1:7545";
+//"http://127.0.0.1:7545";
+
+const String contractAddress = "0x1997F6DA086587dA91ae17620Ba2fCF2A92bC7f5";
+
+const int chainId = 1337; //Polygon testnet-80001, local ganache-1337
